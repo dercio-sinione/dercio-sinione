@@ -1,7 +1,7 @@
 # Dércio Sinione Derone 👋
 
 
-#### Software Developer I’m a software developer, hard worker, eager to learn, I enjoy learn new technologies and put it in practice. My languages focus are C#, Python and Js.
+#### I’m a software developer, hard worker, eager to learn, I enjoy learn new technologies and put it in practice. My languages focus are C#, Python and Js.
 
 
 <!--
