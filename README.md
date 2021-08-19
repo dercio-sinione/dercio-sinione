@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 
 <p><img src="https://komarev.com/ghpvc/?username=derciosinione" alt="Dércio Sinione" /> </p>
   
-<p><img src="https://komarev.com/ghpvc/?username=derciosinione" alt="Dércio Sinione" /> </p>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derciosinione&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
