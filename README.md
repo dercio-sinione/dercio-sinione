@@ -3,7 +3,7 @@
 
 ##### I’m a software developer, hard worker, eager to learn, I enjoy learn new technologies and put it in practice.
 
-- 🔭 I’m currently working on Dr. Cash
+- 🔭 I’m currently working on Kiari Code
 - 🌱 I’m currently learning Golang, Flutter and Kubernetes
 - 👯 I’m looking to collaborate on open source projects.
 - ⚡
